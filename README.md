@@ -27,6 +27,7 @@ This project is a clone of the Flipkart website, developed using HTML, CSS, Java
 - Git
 
 ## Project Structure
+'''
 │
 ├── manage.py
 ├── README.md
@@ -50,7 +51,7 @@ This project is a clone of the Flipkart website, developed using HTML, CSS, Java
 │ ├── asgi.py
 │ ├── settings.py
 │ ├── urls.py
-│ └── wsgi.py
+│ └── wsgi.py'''
 
 
 ## Future Enhancements
