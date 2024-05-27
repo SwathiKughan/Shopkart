@@ -26,34 +26,6 @@ This project is a clone of the Flipkart website, developed using HTML, CSS, Java
 - MySQL
 - Git
 
-## Project Structure
-'''
-│
-├── manage.py
-├── README.md
-├── requirements.txt
-├── db.sqlite3
-├── venv/
-│
-├── myapp/ # Main application folder
-│ ├── migrations/
-│ ├── static/
-│ ├── templates/
-│ ├── admin.py
-│ ├── apps.py
-│ ├── models.py
-│ ├── tests.py
-│ ├── urls.py
-│ └── views.py
-│
-├── flipkart_clone/ # Project folder
-│ ├── init.py
-│ ├── asgi.py
-│ ├── settings.py
-│ ├── urls.py
-│ └── wsgi.py'''
-
-
 ## Future Enhancements
 
 - **Payment Gateway**: Integrate a payment gateway to process transactions.
