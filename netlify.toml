@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-[build]
-publish = "netlify-build/"
-command = "echo 'No build command'"
-=======
-[build]
-publish = "netlify-build/"
-command = "echo 'No build command'"
->>>>>>> 100d46854ed527aa717f9ff8867318df1b5d8e21
