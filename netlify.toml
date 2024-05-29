@@ -1,5 +1,0 @@
-[build]
-publish = "netlify-build/"
-command = "echo 'Deploying static site'"
-
-
