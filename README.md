@@ -1,8 +1,8 @@
-# Flipkart Clone
+# Shopkart Clone
 
 ## Overview
 
-This project is a clone of the Flipkart website, developed using HTML, CSS, JavaScript, Python, Django, and MySQL. It mimics the core functionalities of an e-commerce platform, allowing users to view product details, add products to their cart/favourite, and proceed to checkout. Note that the payment gateway and search engine features have not been implemented yet.
+This project is an e-commerce website, developed using HTML, CSS, JavaScript, Python, Django, and MySQL. It mimics the core functionalities of an e-commerce platform, allowing users to view product details, add products to their cart/favourite, and proceed to checkout. Note that the payment gateway and search engine features have not been implemented yet.
 
 ## Features
 
