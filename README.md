@@ -1,4 +1,4 @@
-# Shopkart Clone
+# Shopkart
 
 ## Overview
 
